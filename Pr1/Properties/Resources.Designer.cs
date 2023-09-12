@@ -69,5 +69,15 @@ namespace Pr1.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap c2605b840b2c56f7ae5a95b96e82bba4__1_ {
+            get {
+                object obj = ResourceManager.GetObject("c2605b840b2c56f7ae5a95b96e82bba4 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
